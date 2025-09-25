@@ -1,4 +1,6 @@
 <?php
+## This is a comment.
+
 
 if($_SERVER["REQUEST_METHOD"]=="POST"):
 
